@@ -1,4 +1,24 @@
 ## Hi there 👋
+Welcome to my GitHub profile! I'm Bartosz Stec, a computer sciencie studnet aspiring to become a web developer.
+
+## 🚀 Skills
+- PHP
+- Python
+- Java,
+- JavaScript, Vue.js
+- MySQL
+
+## 📂 Featured Projects
+
+### 🎮 [JS FlappyBird](https://github.com/wrzoskiewicz/JS-FlappyBird)
+A fun Flappy Bird clone built using JavaScript.
+
+## 🌍 Connect with me
+- [LinkedIn](https://linkedin.com/in/)
+
+
+
+
 
 <!--
 **wrzoskiewicz/wrzoskiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
