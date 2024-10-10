@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm Bartosz Stec, a computer sciencie studnet aspi
 - Java,
 - JavaScript, Vue.js
 - MySQL
+![IMG_20240418_222913446](https://github.com/user-attachments/assets/a6cc83ed-8242-4b60-871d-ae0358443bde)
 
 ## 📂 Featured Projects
 
