@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Bartosz Stec, a computer sciencie studnet aspi
 ## 🚀 Skills
 - PHP
 - Python
-- Java,
+- Java
 - JavaScript, Vue.js
 - MySQL
 
