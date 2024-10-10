@@ -16,6 +16,8 @@ A fun Flappy Bird clone built using JavaScript.
 ## 🌍 Connect with me
 - [LinkedIn](https://linkedin.com/in/)
 
+- ![Profile Badge](https://img.shields.io/badge/GitHub-Profile-blue)
+
 
 
 
