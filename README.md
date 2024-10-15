@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm Bartosz Stec, a computer sciencie studnet aspiring to become a web developer.
+Welcome to my GitHub profile! I'm Bartosz Stec, a computer science student aspiring to become a web developer.
 
 ## 🚀 Skills
 - PHP
