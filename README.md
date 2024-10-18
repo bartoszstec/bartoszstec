@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm Bartosz Stec - computer science student aspiri
 
 ### 🎮 [JS FlappyBird](https://github.com/wrzoskiewicz/JS-FlappyBird)
 A fun Flappy Bird clone built using JavaScript with canvas object
+![Flappy Bird Gameplay](./assets/flappy.jpg)
 
 ## 🌍 Connect with me
 - [LinkedIn](https://linkedin.com/in/)
