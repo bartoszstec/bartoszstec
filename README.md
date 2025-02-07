@@ -30,7 +30,7 @@ This diagram illustrates the architecture of my engineering project:
 
 Tech stack: Python (ML), Vue.js, PHP, MySQL
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🎮 [JS FlappyBird](https://github.com/wrzoskiewicz/JS-FlappyBird)
 A fun Flappy Bird clone built using JavaScript with canvas object
