@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm computer science student aspiring to become a 
 
 ## 📂 Featured Projects
 
-### 🎮 [JS FlappyBird](https://github.com/wrzoskiewicz/JS-FlappyBird)
+### 🎮 [JS FlappyBird](https://github.com/bartoszstec/JS-FlappyBird)
 A fun Flappy Bird clone built using JavaScript with canvas object
 ![Flappy Bird Gameplay](./assets/flappy.jpg)
 
