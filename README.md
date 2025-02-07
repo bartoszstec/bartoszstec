@@ -1,21 +1,32 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm computer science student aspiring to become a web developer.
+Welcome to my GitHub profile! I'm a computer science graduate passionate about web development and machine learning.
 
 ## 🚀 Skills
-- PHP
-- Python
-- Java
-- JavaScript, Vue.js
-- MySQL
+- **Programming Languages:** Python, PHP, Java, JavaScript
+- **Frontend Frameworks:** Vue.js
+- **Databases:** MySQL
+- **Machine Learning:** NLP, Classification Models
 
 ## 📂 Featured Projects
 
-### 🎮 [JS FlappyBird](https://github.com/bartoszstec/JS-FlappyBird)
+### 🛍️ [E-commerce with ML Classification](https://github.com/bartoszstec/ecommerce-ml)
+A web-based e-commerce platform integrated with a custom-built classification model. The model, based on NLP techniques, was developed using real-world data and described in my engineering thesis. It helps in categorizing products and enhancing user experience.
+
+Tech stack: Python (ML), Vue.js, PHP, MySQL
+
+### 🎮 [JS FlappyBird](https://github.com/wrzoskiewicz/JS-FlappyBird)
 A fun Flappy Bird clone built using JavaScript with canvas object
 ![Flappy Bird Gameplay](./assets/flappy.jpg)
 
+## 🎯 Interests
+- Machine Learning (especially NLP & classification models)
+- AI-driven applications in web development
+- Full-stack development
+
 ## 🌍 Connect with me
 - [LinkedIn](https://linkedin.com/in/)
+- [Portfolio](https://yourportfolio.com) *(if you have one, warto dodać!)*
+- [Twitter](https://twitter.com/) *(jeśli używasz do techowych tematów)*
 
 
 
