@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a computer science graduate passionate about w
 A web-based e-commerce platform integrated with a custom-built classification model. The model, based on NLP techniques, was developed using real-world data and described in my engineering thesis. It helps in categorizing products and enhancing user experience.
 
 ## 🏗 System Architecture
-This diagram illustrates the architecture of my engineering thesis project: an e-commerce web application utilizing machine learning for text classification.
+This diagram illustrates the architecture of my engineering project: an e-commerce web application utilizing machine learning for text classification.
 ![Container Diagram](./assets/DiagramKontenerów.png)
 
 Tech stack: Python (ML), Vue.js, PHP, MySQL
