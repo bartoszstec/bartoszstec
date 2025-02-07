@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a computer science graduate passionate about w
 
 ## 📂 Featured Projects
 
-### 🛍️ [E-commerce with ML Classification](https://github.com/bartoszstec/ecommerce-ml)
+### 🛍️ [E-commerce with ML Classification](https://github.com/bartoszstec/Shoop-machine-learning)
 A web-based e-commerce platform integrated with a custom-built classification model. The model, based on NLP techniques, was developed using real-world data and described in my engineering thesis. It helps in categorizing products and enhancing user experience.
 
 Tech stack: Python (ML), Vue.js, PHP, MySQL
