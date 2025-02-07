@@ -14,7 +14,7 @@ A web-based e-commerce platform integrated with a custom-built classification mo
 
 ## 🏗 System Architecture
 This diagram illustrates the architecture of my engineering thesis project: an e-commerce web application utilizing machine learning for text classification.
-![Container Diagram](./assets/DiagramKontenerów3.png)
+![Container Diagram](./assets/DiagramKontenerów.png)
 
 Tech stack: Python (ML), Vue.js, PHP, MySQL
 
