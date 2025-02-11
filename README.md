@@ -42,9 +42,7 @@ A fun Flappy Bird clone built using JavaScript with canvas object
 - Full-stack development
 
 ## 🌍 Connect with me
-- [LinkedIn](https://linkedin.com/in/)
-- [Portfolio](https://yourportfolio.com) *(if you have one, warto dodać!)*
-- [Twitter](https://twitter.com/) *(jeśli używasz do techowych tematów)*
+- [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/bartosz-stec-17a9b4340/))
 
 
 
