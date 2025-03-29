@@ -33,8 +33,8 @@ A fun Flappy Bird clone built using JavaScript and the Canvas API
 - Full-stack development
 
 ### 💡 What I’m Working On
-I'm currently learning the Django framework, completing advanced Python programming courses, and developing a web scraping application.
-[Webscraper](https://github.com/bartoszstec/web-scraper)
+I'm currently learning the Django framework, completing advanced Python programming courses, and developing a [web scraping application](https://github.com/bartoszstec/web-scraper).
+
 
 
 ## 🌍 Connect with me
