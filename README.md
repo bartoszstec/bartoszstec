@@ -8,6 +8,10 @@ Welcome to my GitHub profile! I'm a computer science graduate passionate about w
 - **Databases:** MySQL
 - **Machine Learning:** NLP, Classification Models
 
+## 🎓 Education  
+**B.Eng. in Computer Science** – University of Silesia
+Specialization: Web Development 
+
 ## 📂 Featured Projects
 
 ### 🛍️ [Shoop - ML-powered E-commerce](https://github.com/bartoszstec/Shoop-machine-learning/tree/automatic)
