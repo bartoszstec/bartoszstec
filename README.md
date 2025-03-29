@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a computer science graduate passionate about w
 ## 📂 Featured Projects
 
 ### 🛍️ [Shoop - ML-powered E-commerce](https://github.com/bartoszstec/Shoop-machine-learning)
-A web-based e-commerce platform integrated with a custom-built classification model. It helps in categorizing products and enhancing user experience.
- Built with **Vue.js, Flask, and Scikit-learn**  
-- Uses a **custom-trained NLP model** with **Random Forest** for automated product categorization  
+A web-based e-commerce platform integrated with a custom-built classification model. It helps in categorizing products and enhancing user experience.<br>
+ Tech stack: **Vue.js, Flask, and Scikit-learn**  
+- Uses a **custom-trained NLP model** with **Random Forest** for sentiment analysis of customer reviews
 - Developed as part of my **engineering thesis on AI-driven e-commerce solutions**  
 
 ### 🧠 Machine Learning Model
@@ -22,7 +22,7 @@ The text classification model is based on:
 - **TF-IDF (Term Frequency-Inverse Document Frequency)** for feature extraction, converting text into numerical representations.
 - **Model serialization with Joblib** for efficient loading and inference.
 
-The model was trained on **partly real-world e-commerce data** and tested using **confusion matrices** to evaluate classification performance.
+The model was trained on a dataset containing real-world e-commerce reviews and evaluated using a confusion matrix to assess classification accuracy.
 
 ## 🏗 System Architecture
 This diagram illustrates the architecture of my engineering project:
@@ -33,7 +33,7 @@ Tech stack: Python (ML), Vue.js, PHP, MySQL
 ---
 
 ### 🎮 [JS FlappyBird](https://github.com/wrzoskiewicz/JS-FlappyBird)
-A fun Flappy Bird clone built using JavaScript with canvas object
+A fun Flappy Bird clone built using JavaScript and the Canvas API
 ![Flappy Bird Gameplay](./assets/flappy.jpg)
 
 ## 🎯 Interests
