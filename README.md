@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a computer science graduate passionate about w
 
 ## 📂 Featured Projects
 
-### 🛍️ [Shoop - ML-powered E-commerce](https://github.com/bartoszstec/Shoop-machine-learning)
+### 🛍️ [Shoop - ML-powered E-commerce](https://github.com/bartoszstec/Shoop-machine-learning/tree/automatic)
 A web-based e-commerce platform integrated with a custom-built classification model. It helps in categorizing products and enhancing user experience.<br>
  Tech stack: **Vue.js, Flask, and Scikit-learn**  
 - Uses a **custom-trained NLP model** with **Random Forest** for sentiment analysis of customer reviews.
@@ -31,6 +31,11 @@ A fun Flappy Bird clone built using JavaScript and the Canvas API
 - Machine Learning (especially NLP & classification models)
 - AI-driven applications in web development
 - Full-stack development
+
+### 💡 What I’m Working On
+I'm currently learning the Django framework, completing advanced Python programming courses, and developing a web scraping application.
+[Webscraper](https://github.com/bartoszstec/web-scraper)
+
 
 ## 🌍 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/bartosz-stec-17a9b4340/)
