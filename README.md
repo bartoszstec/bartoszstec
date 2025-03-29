@@ -1,6 +1,7 @@
 ## Hi there 👋
 Welcome to my GitHub profile! I'm a computer science graduate passionate about web development and machine learning.
 
+
 ## 🚀 Skills
 - **Programming Languages:** Python, PHP, Java, JavaScript
 - **Frontend Frameworks:** Vue.js
@@ -12,23 +13,13 @@ Welcome to my GitHub profile! I'm a computer science graduate passionate about w
 ### 🛍️ [Shoop - ML-powered E-commerce](https://github.com/bartoszstec/Shoop-machine-learning)
 A web-based e-commerce platform integrated with a custom-built classification model. It helps in categorizing products and enhancing user experience.<br>
  Tech stack: **Vue.js, Flask, and Scikit-learn**  
-- Uses a **custom-trained NLP model** with **Random Forest** for sentiment analysis of customer reviews
-- Developed as part of my **engineering thesis on AI-driven e-commerce solutions**  
-
-### 🧠 Machine Learning Model
-The text classification model is based on:
-- **Random Forest Algorithm** – chosen for its robustness, ability to handle textual data, and ensemble-based decision-making.
-- **Natural Language Processing (NLP)** using **spaCy** and the **pl_core_news_sm** language model for text tokenization, lemmatization, and linguistic analysis.
-- **TF-IDF (Term Frequency-Inverse Document Frequency)** for feature extraction, converting text into numerical representations.
-- **Model serialization with Joblib** for efficient loading and inference.
-
-The model was trained on a dataset containing real-world e-commerce reviews and evaluated using a confusion matrix to assess classification accuracy.
+- Uses a **custom-trained NLP model** with **Random Forest** for sentiment analysis of customer reviews.
+- Developed as part of my **engineering thesis on AI-driven e-commerce solutions**.
+- Includes an ML-powered sentiment analysis model trained on real-world e-commerce reviews.
 
 ## 🏗 System Architecture
-This diagram illustrates the architecture of my engineering project:
+This diagram illustrates the architecture Shoop project:
 ![Container Diagram](./assets/DiagramKontenerów.png)
-
-Tech stack: Python (ML), Vue.js, PHP, MySQL
 
 ---
 
