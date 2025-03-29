@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a computer science graduate passionate about w
 - **Machine Learning:** NLP, Classification Models
 
 ## 🎓 Education  
-**B.Eng. in Computer Science** – University of Silesia
-Specialization: Web Development 
+**B.Eng. in Computer Science** – University of Silesia<br>
+Specialization: Designing of Web Application
 
 ## 📂 Featured Projects
 
