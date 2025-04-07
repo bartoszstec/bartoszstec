@@ -1,9 +1,9 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm a computer science graduate passionate about web development and machine learning.
+Welcome to my GitHub profile! I'm a computer science graduate currently pursuing my Master's degree. I'm passionate about machine learning, data science, and building systems that combine analytical thinking with creativity.
 
 
 ## 🚀 Skills
-- **Programming Languages:** Python, PHP, Java, JavaScript
+- **Programming Languages:** Python, Java, JavaScript
 - **Frontend Frameworks:** Vue.js
 - **Databases:** MySQL
 - **Machine Learning:** NLP, Classification Models
@@ -46,6 +46,8 @@ I'm currently learning the Django framework, completing advanced Python programm
 - Feel free to reach out to me via email: [bartoszstec7@gmail.com](mailto:bartoszstec7@gmail.com)
 
 I'm open to collaborations, projects, and tech discussions! 🚀  
+
+⚡ Fun fact: I like GYM
 
 
 
