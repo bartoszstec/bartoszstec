@@ -43,7 +43,7 @@ I'm currently learning the Django framework, completing advanced Python programm
 
 ## 🌍 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/bartosz-stec-17a9b4340/)
-- Feel free to reach out to me via email: [bartoszstec7@gmail.com](mailto:bartoszstec7@gmail.com)
+- Feel free to reach out to me via email: [bartoszstec7@gmail.com](mailto:stecbartosz.praca@gmail.com)
 
 I'm open to collaborations, projects, and tech discussions! 🚀  
 
