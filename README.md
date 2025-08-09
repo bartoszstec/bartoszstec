@@ -1,25 +1,31 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm a computer science graduate currently pursuing my Master's degree. I'm passionate about machine learning, data science, and building systems that combine analytical thinking with creativity.
+I'm Bartosz — a Computer Science graduate (B.Eng.) and current Master's student passionate about **building AI-powered web applications**.  
+I love combining machine learning with full-stack development to create projects that are both **smart** and **interactive**.
 
 
 ## 🚀 Skills
-- **Programming Languages:** Python, Java, JavaScript
-- **Frontend Frameworks:** Vue.js
-- **Databases:** MySQL
-- **Machine Learning:** NLP, Classification Models
+- **Languages:** Python
+- **Frontend:** JavaScript, Vue.js, HTML, CSS
+- **Backend:** Flask, Django (learning), SQLAlchemy
+- **Databases:** MySQL, SQLite, SQL
+- **Machine Learning / Data Science:** NLP, Classification, Reinforcement Learning, numpy, pandas, spaCy
+- **Tools:** Git, scikit-learn, Matplotlib
+- **Other experience:** Java, PHP (past projects)
+
 
 ## 🎓 Education  
 **B.Eng. in Computer Science** – University of Silesia<br>
 Specialization: Designing of Web Application
+Currently pursuing **M.Sc. in Computer Science**, focusing on AI applications.
 
 ## 📂 Featured Projects
 
 ### 🛍️ [Shoop - ML-powered E-commerce](https://github.com/bartoszstec/Shoop-machine-learning/tree/automatic)
 A web-based e-commerce platform integrated with a custom-built classification model. It helps in categorizing products and enhancing user experience.<br>
  Tech stack: **Vue.js, Flask, and Scikit-learn**  
-- Uses a **custom-trained NLP model** with **Random Forest** for sentiment analysis of customer reviews.
-- Developed as part of my **engineering thesis on AI-driven e-commerce solutions**.
-- Includes an ML-powered sentiment analysis model trained on real-world e-commerce reviews.
+- Developed as my engineering thesis from scratch (data collection, preprocessing, model training, integration).
+- ML model (Random Forest) trained on real-world e-commerce reviews.
+- Classifies customer opinions as positive,negative or neutral to enhance user experience.
 
 ## 🏗 System Architecture
 This diagram illustrates the architecture Shoop project:
@@ -27,17 +33,30 @@ This diagram illustrates the architecture Shoop project:
 
 ---
 
+### 🎮 [Tic Tac Toe AI – Reinforcement Learning](https://github.com/bartoszstec/tic_tac_toe)
+An interactive Tic Tac Toe game with **AI opponent trained via Q-learning**.  
+**Tech:** Flask, Python (RL), JavaScript (Canvas)  
+- Full-stack project: JS frontend handles gameplay, Flask backend serves AI decisions.
+- Includes game history logging and training visualizations.
+- AI learns optimal strategy through self-play.
+- :warning: Project in progress
+
+---
+
 ### 🎮 [JS FlappyBird](https://github.com/wrzoskiewicz/JS-FlappyBird)
-A fun Flappy Bird clone built using JavaScript and the Canvas API
+A browser-based Flappy Bird clone built with **JavaScript + Canvas API**.
 ![Flappy Bird Gameplay](./assets/flappy.jpg)
 
 ## 🎯 Interests
-- Machine Learning (especially NLP & classification models)
-- AI-driven applications in web development
-- Full-stack development
+- AI in web development
+- NLP & sentiment analysis
+- Reinforcement Learning
+- Full-stack applications
 
 ### 💡 What I’m Working On
-I'm currently learning the Django framework, completing advanced Python programming courses, and developing a [tic tac toe game](https://github.com/bartoszstec/tic_tac_toe). The game will be associated with AI model playing as the other player.
+- Expanding [Tic Tac Toe AI](https://github.com/bartoszstec/tic_tac_toe).
+- Learning Django for more advanced backend development.
+- Exploring deployment workflows (Render, Vercel, Docker).
 
 
 
@@ -47,7 +66,7 @@ I'm currently learning the Django framework, completing advanced Python programm
 
 I'm open to collaborations, projects, and tech discussions! 🚀  
 
-⚡ Fun fact: I like GYM
+⚡ Fun fact: I like GYM, I can code and deadlift.
 
 
 
