@@ -37,9 +37,8 @@ This diagram illustrates the architecture Shoop project:
 An interactive Tic Tac Toe game with **AI opponent trained via Q-learning**.  
 **Tech:** Flask, Python (RL), JavaScript (Canvas)  
 - Full-stack project: JS frontend handles gameplay, Flask backend serves AI decisions.
-- Includes game history logging and training visualizations.
+- Includes game history and training visualizations.
 - AI learns optimal strategy through self-play.
-- :warning: Project in progress
 
 ---
 
