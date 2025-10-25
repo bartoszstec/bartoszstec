@@ -39,6 +39,9 @@ An interactive Tic Tac Toe game with **AI opponent trained via Q-learning**.
 - Full-stack project: JS frontend handles gameplay, Flask backend serves AI decisions.
 - Includes game history and training visualizations.
 - AI learns optimal strategy through self-play.
+
+If you are intrested in more informations about this project or want to try it out check repository link
+
 Below you can see screenshot from gameplay:
 ![tic_tac_toe game screenshot](./assets/tic_tac_toe_sc.png)
 
