@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Bartosz — a Computer Science graduate (B.Eng.) and current Master's student passionate about **building AI-powered web applications**.  
-I love combining machine learning with full-stack development to create projects that are both **smart** and **interactive**.
+I love combining machine learning with full-stack development to create projects that are both **smart** and **interactive**.  
 My main goal is to develop in the field of **applied AI**.
 
 
