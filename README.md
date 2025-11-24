@@ -1,12 +1,13 @@
 ## Hi there 👋
 I'm Bartosz — a Computer Science graduate (B.Eng.) and current Master's student passionate about **building AI-powered web applications**.  
 I love combining machine learning with full-stack development to create projects that are both **smart** and **interactive**.
+My main goal is to develop in the field of **applied AI**.
 
 
 ## 🚀 Skills
 - **Languages:** Python
 - **Frontend:** JavaScript, Vue.js, HTML, CSS
-- **Backend:** Flask, Django (learning), SQLAlchemy
+- **Backend:** Flask, SQLAlchemy
 - **Databases:** MySQL, SQLite, SQL
 - **Machine Learning / Data Science:** NLP, Classification, Reinforcement Learning, numpy, pandas, spaCy
 - **Tools:** Git, scikit-learn, Matplotlib
@@ -52,16 +53,17 @@ Below you can see screenshot from gameplay:
 A browser-based Flappy Bird clone built with **JavaScript + Canvas API**.
 ![Flappy Bird Gameplay](./assets/flappy.jpg)
 
-## 🎯 Interests
-- AI in web development
-- NLP & sentiment analysis
-- Reinforcement Learning
-- Full-stack applications
+---
 
 ### 💡 What I’m Working On
-- Expanding [Tic Tac Toe AI](https://github.com/bartoszstec/tic_tac_toe).
-- Learning Django for more advanced backend development.
-- Exploring deployment workflows (Render, Vercel, Docker).
+- Expanding [Shoop](https://github.com/bartoszstec/Shoop-machine-learning) in more research approach.
+- Learning about role of AI in biometrics and bioinformatics.
+- Exploring cloud technologies.
+
+### 🎯 Interests
+- applied AI
+- strategic games
+- sport
 
 
 
