@@ -27,9 +27,10 @@ A web-based e-commerce platform integrated with a custom-built classification mo
 - ML model (Random Forest) trained on real-world e-commerce reviews.
 - Classifies customer opinions as positive,negative or neutral to enhance user experience.
 
-## 🏗 System Architecture
-This diagram illustrates the architecture Shoop project:
-![Container Diagram](./assets/DiagramKontenerów.png)
+If you are intrested in more informations about this project or want to see DEMO check repository link
+
+Below you can see screenshot from main page:
+![Container Diagram](./assets/shoop_sc.png)
 
 ---
 
