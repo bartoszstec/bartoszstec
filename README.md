@@ -57,7 +57,7 @@ A browser-based Flappy Bird clone built with **JavaScript + Canvas API**.
 
 ### 💡 What I’m Working On
 - Expanding [Shoop](https://github.com/bartoszstec/Shoop-machine-learning) in more research approach.
-- Learning about role of AI in biometrics and bioinformatics. Check [repo](https://github.com/bartoszstec/diabetes_xgboost_classifier) in more research approach.
+- Learning about role of AI in biometrics and bioinformatics. Check [repo](https://github.com/bartoszstec/diabetes_xgboost_classifier).
 - Exploring cloud technologies.
 
 ### 🎯 Interests
