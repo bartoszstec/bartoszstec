@@ -28,6 +28,8 @@ A web-based e-commerce platform integrated with a custom-built classification mo
 - ML model (Random Forest) trained on real-world e-commerce reviews.
 - Classifies customer opinions as positive,negative or neutral to enhance user experience.
 
+📽️ [See Demo](https://drive.google.com/file/d/1FEYMIk2cYuBNileBWR4x1U1rq4PU-IPa/view?usp=drive_link)
+
 If you are intrested in more informations about this project or want to see DEMO check repository link
 
 Below you can see screenshot from main page:
@@ -43,6 +45,8 @@ An interactive Tic Tac Toe game with **AI opponent trained via Q-learning**.
 - AI learns optimal strategy through self-play.
 
 If you are intrested in more informations about this project or want to try it out check repository link
+
+See demo: [DEMO](https://tic-tac-toe-gze4anbeg6fkewhk.northeurope-01.azurewebsites.net/)
 
 Below you can see screenshot from gameplay:
 ![tic_tac_toe game screenshot](./assets/tic_tac_toe_sc.png)
