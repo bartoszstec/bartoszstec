@@ -26,12 +26,6 @@ Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using
 
 ---
 
-### 🎮 [JS FlappyBird](https://github.com/wrzoskiewicz/JS-FlappyBird)
-A browser-based Flappy Bird clone built with **JavaScript + Canvas API**.
-![Flappy Bird Gameplay](./assets/flappy.jpg)
-
----
-
 ### 💡 What I’m Working On
 - Expanding [Shoop](https://github.com/bartoszstec/Shoop-machine-learning) in more research approach.
 - Learning about role of AI in biometrics and bioinformatics. Check [repo](https://github.com/bartoszstec/diabetes_xgboost_classifier).
