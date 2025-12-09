@@ -11,7 +11,7 @@ Python | Flask | Machine Learning | Random Forest | Natural Language Processing 
 
 Web-based e-commerce platform enhanced with a custom machine learning model. Developed as my engineering thesis from scratch, the system integrates a Flask backend with a javascript frontend and employs a Scikit-learn Random Forest model trained on hybrid data. It automatically classifies user opinions as positive, negative, or neutral to improve product discovery and overall user experience.
 
-![Container Diagram](./assets/shoop_sc.png)
+![shoop sc](./assets/shoop_sc.png)
 
 📽️ [Demo](https://drive.google.com/file/d/1FEYMIk2cYuBNileBWR4x1U1rq4PU-IPa/view?usp=drive_link)
 
@@ -22,12 +22,9 @@ Python | Flask | REST API | Reinforcement Learning | Q-learning | NumPy | SciPy 
 
 Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using Q-learning reinforcement learning. This full-stack application combines a JavaScript Canvas frontend with a Python Flask backend, where the AI learns optimal strategy through self-play. The project also includes game history tracking and training visualizations to observe the learning process.
 
-If you are intrested in more informations about this project or want to try it out check repository link
-
-See demo: [DEMO](https://tic-tac-toe-gze4anbeg6fkewhk.northeurope-01.azurewebsites.net/)
-
-Screenshot gameplay:
 ![tic_tac_toe game screenshot](./assets/tic_tac_toe_sc.png)
+
+[DEMO](https://tic-tac-toe-gze4anbeg6fkewhk.northeurope-01.azurewebsites.net/)
 
 ---
 
