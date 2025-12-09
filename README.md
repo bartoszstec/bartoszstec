@@ -27,9 +27,8 @@ Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using
 ---
 
 ### 💡 What I’m Working On
-- Expanding [Shoop](https://github.com/bartoszstec/Shoop-machine-learning) in more research approach.
-- Learning about role of AI in biometrics and bioinformatics. Check [repo](https://github.com/bartoszstec/diabetes_xgboost_classifier).
-- Exploring cloud technologies.
+- Expanding [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system) in more research approach.
+- Learning about role of AI in biometrics and bioinformatics. Check [repo](https://github.com/bartoszstec/diabetes-xgboost-classifier).
 
 ## 🌍 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/bartosz-stec-17a9b4340/)
