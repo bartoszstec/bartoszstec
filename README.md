@@ -3,21 +3,18 @@ I'm Bartosz — a Computer Science graduate (B.Eng.) and current Master's studen
 I love combining machine learning with full-stack development to create projects that are both **smart** and **interactive**.  
 My main goal is to develop in the field of **applied AI**.
 
-## 📂 Featured Projects
+# 📂 Latest Projects:
 
 ### 🛍️ [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system/tree/main)
-A web-based e-commerce platform integrated with a custom-built classification model. It helps in categorizing products and enhancing user experience.<br>
- Tech stack: **Vue.js, Flask, and Scikit-learn**  
-- Developed as my engineering thesis from scratch (data collection, preprocessing, model training, integration).
-- ML model (Random Forest) trained on real-world e-commerce reviews.
-- Classifies customer opinions as positive,negative or neutral to enhance user experience.
+Python | Flask | Machine Learning | Random Forest | Natural Language Processing | Sentiment Analysis | scikit-learn | spaCy | E-commerce
 
-📽️ [See Demo](https://drive.google.com/file/d/1FEYMIk2cYuBNileBWR4x1U1rq4PU-IPa/view?usp=drive_link)
 
-If you are intrested in more informations about this project or want to see DEMO check repository link
+Web-based e-commerce platform enhanced with a custom machine learning model. Developed as my engineering thesis from scratch, the system integrates a Flask backend with a javascript frontend and employs a Scikit-learn Random Forest model trained on hybrid data. It automatically classifies user opinions as positive, negative, or neutral to improve product discovery and overall user experience.
 
 Main page screenshot:
 ![Container Diagram](./assets/shoop_sc.png)
+
+📽️ [Demo](https://drive.google.com/file/d/1FEYMIk2cYuBNileBWR4x1U1rq4PU-IPa/view?usp=drive_link)
 
 ---
 
