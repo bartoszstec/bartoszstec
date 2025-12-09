@@ -21,7 +21,7 @@ Currently pursuing **M.Sc. in Computer Science**, focusing on AI applications.
 
 ## 📂 Featured Projects
 
-### 🛍️ [Shoop - ML-powered E-commerce](https://github.com/bartoszstec/Shoop-machine-learning/tree/automatic)
+### 🛍️ [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system/tree/main)
 A web-based e-commerce platform integrated with a custom-built classification model. It helps in categorizing products and enhancing user experience.<br>
  Tech stack: **Vue.js, Flask, and Scikit-learn**  
 - Developed as my engineering thesis from scratch (data collection, preprocessing, model training, integration).
@@ -37,8 +37,10 @@ Below you can see screenshot from main page:
 
 ---
 
-### 🎮 [Tic Tac Toe AI – Reinforcement Learning](https://github.com/bartoszstec/tic_tac_toe)
-An interactive Tic Tac Toe game with **AI opponent trained via Q-learning**.  
+### 🎮 [rl-tic-tac-toe-dual-agent-qlearning](https://github.com/bartoszstec/tic_tac_toe)
+Python | Flask | REST API | Reinforcement Learning | Q-learning | NumPy | SciPy | Data Visualization
+
+An interactive Tic Tac Toe game with **AI opponent trained via Q-learning**.
 **Tech:** Flask, Python (RL), JavaScript (Canvas)  
 - Full-stack project: JS frontend handles gameplay, Flask backend serves AI decisions.
 - Includes game history and training visualizations.
