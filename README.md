@@ -1,5 +1,10 @@
-## Hi there 👋
+## AI-Full Stack Developer 🚀
 My passion lies in building intelligent, interactive web applications by bridging machine learning with full-stack development. I aim to create solutions that are not only smart but also practical and user-centric.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # 📂 Latest Projects:
 
