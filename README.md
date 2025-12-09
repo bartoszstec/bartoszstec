@@ -3,7 +3,7 @@ My passion lies in building intelligent, interactive web applications by bridgin
 
 # 📂 Latest Projects:
 
-### 🛍️ [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system/tree/main)
+## 🛍️ [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system/tree/main)
 Python | Flask | Machine Learning | Random Forest | Natural Language Processing | Sentiment Analysis | scikit-learn | spaCy | E-commerce
 
 
@@ -15,7 +15,7 @@ Web-based e-commerce platform enhanced with a custom machine learning model. Dev
 
 ---
 
-### 🎮 [rl-tic-tac-toe-dual-agent-qlearning](https://github.com/bartoszstec/tic_tac_toe)
+## 🎮 [rl-tic-tac-toe-dual-agent-qlearning](https://github.com/bartoszstec/tic_tac_toe)
 Python | Flask | REST API | Reinforcement Learning | Q-learning | NumPy | SciPy | Data Visualization
 
 Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using Q-learning reinforcement learning. This full-stack application combines a JavaScript Canvas frontend with a Python Flask backend, where the AI learns optimal strategy through self-play. The project also includes game history tracking and training visualizations to observe the learning process.
@@ -26,7 +26,7 @@ Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using
 
 ---
 
-### 💡 What I’m Working On
+## 💡 What I’m Working On
 - Expanding [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system) in more research approach.
 - Learning about role of AI in biometrics and bioinformatics. Check [repo](https://github.com/bartoszstec/diabetes-xgboost-classifier).
 
