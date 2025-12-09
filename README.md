@@ -3,11 +3,11 @@ My passion lies in building intelligent, interactive web applications by bridgin
 
 # 📂 Latest Projects:
 
-## 🛍️ [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system/tree/main)
+## 🛍️ [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system)
 Python | Flask | Machine Learning | Random Forest | Natural Language Processing | Sentiment Analysis | scikit-learn | spaCy | E-commerce
 
 
-Web-based e-commerce platform enhanced with a custom machine learning model. Developed as my engineering thesis from scratch, the system integrates a Flask backend with a javascript frontend and employs a Scikit-learn Random Forest model trained on hybrid data. It automatically classifies user opinions as positive, negative, or neutral to improve product discovery and overall user experience.
+Web-based e-commerce platform enhanced with a custom machine learning model. Developed as my engineering thesis from scratch, the system integrates a Flask backend with a Vanilla JavaScript frontend and employs a Scikit-learn Random Forest model trained on hybrid data. It automatically classifies user opinions as positive, negative, or neutral to improve product discovery and overall user experience.
 
 ![shoop sc](./assets/shoop_sc.png)
 
@@ -22,14 +22,15 @@ Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using
 
 ![tic_tac_toe game screenshot](./assets/tic_tac_toe_sc.png)
 
-[DEMO](https://tic-tac-toe-gze4anbeg6fkewhk.northeurope-01.azurewebsites.net/)
+[Demo](https://tic-tac-toe-gze4anbeg6fkewhk.northeurope-01.azurewebsites.net/)
 
 ---
 
-## 💡 What I’m Working On
-- Expanding [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system) in more research approach.
-- Learning about role of AI in biometrics and bioinformatics. Check [repo](https://github.com/bartoszstec/diabetes-xgboost-classifier).
+## 🔭 Currently Exploring
+- Enhancing the ecommerce-sentiment-analysis-ml-system with advanced NLP techniques for Polish sentiment analysis [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system).
+- Applying ML in biometrics, recently built a classifier for diabetes prediction [diabetes-xgboost-classifier](https://github.com/bartoszstec/diabetes-xgboost-classifier).
 
-Open to collaborations and tech discussions! 
+## 🤝 Let's Connect
+I'm always open to collaborations, project ideas, or tech discussions. Feel free to reach out!
 
 ⚡ Fun fact: I like GYM, I can code and deadlift.
