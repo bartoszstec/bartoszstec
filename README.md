@@ -40,11 +40,7 @@ Below you can see screenshot from main page:
 ### 🎮 [rl-tic-tac-toe-dual-agent-qlearning](https://github.com/bartoszstec/tic_tac_toe)
 Python | Flask | REST API | Reinforcement Learning | Q-learning | NumPy | SciPy | Data Visualization
 
-An interactive Tic Tac Toe game with **AI opponent trained via Q-learning**.
-**Tech:** Flask, Python (RL), JavaScript (Canvas)  
-- Full-stack project: JS frontend handles gameplay, Flask backend serves AI decisions.
-- Includes game history and training visualizations.
-- AI learns optimal strategy through self-play.
+Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using Q-learning reinforcement learning. This full-stack application combines a JavaScript Canvas frontend with a Python Flask backend, where the AI learns optimal strategy through self-play. The project also includes game history tracking and training visualizations to observe the learning process.
 
 If you are intrested in more informations about this project or want to try it out check repository link
 
