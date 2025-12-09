@@ -3,22 +3,6 @@ I'm Bartosz — a Computer Science graduate (B.Eng.) and current Master's studen
 I love combining machine learning with full-stack development to create projects that are both **smart** and **interactive**.  
 My main goal is to develop in the field of **applied AI**.
 
-
-## 🚀 Skills
-- **Languages:** Python
-- **Frontend:** JavaScript, Vue.js, HTML, CSS
-- **Backend:** Flask, SQLAlchemy
-- **Databases:** MySQL, SQLite, SQL
-- **Machine Learning / Data Science:** NLP, Classification, Reinforcement Learning, numpy, pandas, spaCy
-- **Tools:** Git, scikit-learn, Matplotlib
-- **Other experience:** Java, PHP (past projects)
-
-
-## 🎓 Education  
-**B.Eng. in Computer Science** – University of Silesia<br>
-Specialization: Designing of Web Application
-Currently pursuing **M.Sc. in Computer Science**, focusing on AI applications.
-
 ## 📂 Featured Projects
 
 ### 🛍️ [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system/tree/main)
@@ -32,7 +16,7 @@ A web-based e-commerce platform integrated with a custom-built classification mo
 
 If you are intrested in more informations about this project or want to see DEMO check repository link
 
-Below you can see screenshot from main page:
+Main page screenshot:
 ![Container Diagram](./assets/shoop_sc.png)
 
 ---
@@ -46,7 +30,7 @@ If you are intrested in more informations about this project or want to try it o
 
 See demo: [DEMO](https://tic-tac-toe-gze4anbeg6fkewhk.northeurope-01.azurewebsites.net/)
 
-Below you can see screenshot from gameplay:
+Screenshot gameplay:
 ![tic_tac_toe game screenshot](./assets/tic_tac_toe_sc.png)
 
 ---
@@ -62,34 +46,10 @@ A browser-based Flappy Bird clone built with **JavaScript + Canvas API**.
 - Learning about role of AI in biometrics and bioinformatics. Check [repo](https://github.com/bartoszstec/diabetes_xgboost_classifier).
 - Exploring cloud technologies.
 
-### 🎯 Interests
-- applied AI
-- strategic games
-- sport
-
-
-
 ## 🌍 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/bartosz-stec-17a9b4340/)
 - Feel free to reach out to me via email: [stecbartosz.praca@gmail.com](mailto:stecbartosz.praca@gmail.com)
 
-I'm open to collaborations, projects, and tech discussions! 🚀  
+Open to collaborations and tech discussions! 
 
 ⚡ Fun fact: I like GYM, I can code and deadlift.
-
-
-
-<!--
-**wrzoskiewicz/wrzoskiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
