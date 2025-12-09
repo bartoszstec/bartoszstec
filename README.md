@@ -11,7 +11,6 @@ Python | Flask | Machine Learning | Random Forest | Natural Language Processing 
 
 Web-based e-commerce platform enhanced with a custom machine learning model. Developed as my engineering thesis from scratch, the system integrates a Flask backend with a javascript frontend and employs a Scikit-learn Random Forest model trained on hybrid data. It automatically classifies user opinions as positive, negative, or neutral to improve product discovery and overall user experience.
 
-Main page screenshot:
 ![Container Diagram](./assets/shoop_sc.png)
 
 📽️ [Demo](https://drive.google.com/file/d/1FEYMIk2cYuBNileBWR4x1U1rq4PU-IPa/view?usp=drive_link)
