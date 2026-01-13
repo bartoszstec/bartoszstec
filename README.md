@@ -27,6 +27,16 @@ Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using
 
 ---
 
+🩺 [diabetes-xgboost-classifier](https://github.com/bartoszstec/diabetes-xgboost-classifier)
+
+Python | Flask | Machine Learning | XGBoost | K-means Clustering | Data Preprocessing | Feature Engineering | Web Deployment
+
+End-to-end machine learning system for predicting diabetes from biometric blood-test data. Built as a full ML pipeline, the project includes data preprocessing, detection and removal of data leakage, patient phenotype clustering, XGBoost classification, model evaluation with clinical trade-offs (prioritizing recall for positive class), and deployment via a Flask web application. Feature importance and PCA visualizations help explain predictions and clusters.
+
+<!---![diabetes classification screenshot](./assets/diabetes_sc.png)-->
+
+<!---📽️ [Demo]()-->
+
 ## 🔭 Currently Exploring
 - Enhancing the ecommerce-sentiment-analysis-ml-system with advanced NLP techniques for Polish sentiment analysis [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system).
 - Applying ML in biometrics, recently built a classifier for diabetes prediction [diabetes-xgboost-classifier](https://github.com/bartoszstec/diabetes-xgboost-classifier).
