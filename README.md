@@ -27,7 +27,7 @@ Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using
 
 ---
 
-🩺 [diabetes-xgboost-classifier](https://github.com/bartoszstec/diabetes-xgboost-classifier)
+## 🩺 [diabetes-xgboost-classifier](https://github.com/bartoszstec/diabetes-xgboost-classifier)
 
 Python | Flask | Machine Learning | XGBoost | K-means Clustering | Data Preprocessing | Feature Engineering | Web Deployment
 
