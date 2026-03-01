@@ -12,7 +12,15 @@ Web-based e-commerce platform enhanced with a custom machine learning model. Dev
 
 ![shoop sc](./assets/shoop_sc.png)
 
-📽️ [Demo](https://drive.google.com/file/d/1FEYMIk2cYuBNileBWR4x1U1rq4PU-IPa/view?usp=drive_link)
+---
+
+## 🩺 [diabetes-xgboost-classifier](https://github.com/bartoszstec/diabetes-xgboost-classifier)
+
+Python | Flask | Machine Learning | XGBoost | K-means Clustering | Data Preprocessing | Feature Engineering | Web Deployment
+
+End-to-end machine learning system for predicting diabetes from biometric blood-test data. Built as a full ML pipeline, the project includes data preprocessing, detection and removal of data leakage, patient phenotype clustering, XGBoost classification, model evaluation with clinical trade-offs (prioritizing recall for positive class), and deployment via a Flask web application. Feature importance and PCA visualizations help explain predictions and clusters.
+
+![shoop sc](./assets/diabetes_predictor_sc.png)
 
 ---
 
@@ -22,16 +30,6 @@ Python | Flask | REST API | Reinforcement Learning | Q-learning | NumPy | SciPy 
 Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using Q-learning reinforcement learning. This full-stack application combines a JavaScript Canvas frontend with a Python Flask backend, where the AI learns optimal strategy through self-play. The project also includes game history tracking and training visualizations to observe the learning process.
 
 ![tic_tac_toe game screenshot](./assets/tic_tac_toe_sc.png)
-
-[Demo](https://tic-tac-toe-gze4anbeg6fkewhk.northeurope-01.azurewebsites.net/)
-
----
-
-## 🩺 [diabetes-xgboost-classifier](https://github.com/bartoszstec/diabetes-xgboost-classifier)
-
-Python | Flask | Machine Learning | XGBoost | K-means Clustering | Data Preprocessing | Feature Engineering | Web Deployment
-
-End-to-end machine learning system for predicting diabetes from biometric blood-test data. Built as a full ML pipeline, the project includes data preprocessing, detection and removal of data leakage, patient phenotype clustering, XGBoost classification, model evaluation with clinical trade-offs (prioritizing recall for positive class), and deployment via a Flask web application. Feature importance and PCA visualizations help explain predictions and clusters.
 
 <!---![diabetes classification screenshot](./assets/diabetes_sc.png)-->
 
