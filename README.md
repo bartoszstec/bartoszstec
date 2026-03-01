@@ -20,7 +20,7 @@ Python | Flask | Machine Learning | XGBoost | K-means Clustering | Data Preproce
 
 End-to-end machine learning system for predicting diabetes from biometric blood-test data. Built as a full ML pipeline, the project includes data preprocessing, detection and removal of data leakage, patient phenotype clustering, XGBoost classification, model evaluation with clinical trade-offs (prioritizing recall for positive class), and deployment via a Flask web application. Feature importance and PCA visualizations help explain predictions and clusters.
 
-![shoop sc](./assets/diabetes_predictor_sc.png)
+[![Watch the video](./assets/diabetes_predictor_yt_thumbnail.png)](https://youtu.be/0HRh3Uo4MiY)
 
 ---
 
