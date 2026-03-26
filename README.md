@@ -36,8 +36,7 @@ Interactive Tic Tac Toe game featuring an AI opponent trained from scratch using
 <!---📽️ [Demo]()-->
 
 ## 🔭 Currently Exploring
-- Enhancing the ecommerce-sentiment-analysis-ml-system with advanced NLP techniques for Polish sentiment analysis [ecommerce-sentiment-analysis-ml-system](https://github.com/bartoszstec/ecommerce-sentiment-analysis-ml-system).
-- Applying ML in biometrics, recently built a classifier for diabetes prediction [diabetes-xgboost-classifier](https://github.com/bartoszstec/diabetes-xgboost-classifier).
+- Developing an adaptive data-chunking heuristic that leverages SHAP explanation stability to optimize concept drift detection in data streams. This project investigates whether monitoring feature importance variance can provide earlier drift signals than traditional error-based methods like ADWIN or DDM. [SHAP-chunking](https://github.com/bartoszstec/SHAP-chunking).
 
 ## 🤝 Let's Connect
 I'm always open to collaborations, project ideas, or tech discussions. Feel free to reach out!
